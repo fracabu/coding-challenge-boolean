@@ -1,0 +1,72 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  color: white;
+
+}
+
+.contenitore{
+  width: 1000px;
+  background-color: black;
+  opacity:0.6;
+  margin:auto;
+  padding-bottom: 80px;
+  padding-top: 80px;
+  border-radius: 2%;
+}
+
+.logo{
+  width: 200px;
+  margin-left: 400px;
+  
+
+}
+.logo-text{
+  font-size: 25px;
+  color:#2fe600;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+
+.bottoni{
+  width:auto;
+  height: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-align: center;
+  background-color:#2fe600;
+  line-height: 50px;
+}
+
+.gino22{
+  margin-left: 50px;
+  padding-top: 25px;
+}
+
+.monopattino{
+  font-family:sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.row{
+  border-radius: 2px;
+  width:230px;
+  height:16px;
+  background-color: orange;
+}
+
+.row1{
+  border-radius: 2px;
+  width:420px;
+  height:16px;
+  background-color:#2fe600 ;
+}
+
+.row2{
+  border-radius: 2px;
+  width:120px;
+  height:16px;
+  background-color:red ;
+}
